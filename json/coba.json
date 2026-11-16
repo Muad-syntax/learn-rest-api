@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Ahmad Maliki",
+        "umur": 22,
+        "NIS": "07052026",
+        "lulus": true,
+        "hobi": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Pak Aoel",
+            "pembimbing2": "Pak Haris  "
+        }
+    },
+    {
+        "nama": "Ahmad Maliki",
+        "umur": 22,
+        "NIS": "07052026",
+        "lulus": true,
+        "hobi": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Pak Aoel",
+            "pembimbing2": "Pak Haris  "
+        }
+    }
+]
